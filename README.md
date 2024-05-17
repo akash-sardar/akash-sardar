@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akash-sardar
 - 👀 I’m interested in movies, gaming and coding
-- 🌱 I’m currently learning machine learning
+- 🌱 Lifelong student of life
 
 
 <!---
