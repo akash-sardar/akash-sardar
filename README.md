@@ -6,7 +6,7 @@ With 14+ years of experience in data engineering, data science, and large-scale 
 📌 Key Interests:
 
 * 🔁 Data Migration & Legacy Modernization
-* 🧠 LLM Fine-tuning & Instruction Tuning (LoRA, QLoRA, RLHF)
+* 🧠 LLM Fine-tuning & Instruction Tuning (LoRA, QLoRA)
 * 🧬 AI-assisted Automation
 * 🧰 Python, FastAPI, PySpark, and more
 * 🧪 Experimenting with OCR+RAG, background workers, and pipelines
